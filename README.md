@@ -13,6 +13,6 @@ The processed dataset is then visualized in Power BI through an interactive dash
 🔹 Solved real-world marketing business problems using advanced SQL queries involving aggregations, filtering, grouping, ranking, and KPI calculations.
 🔹 Built an interactive Power BI dashboard with dynamic filters, DAX measures, KPI cards, and drill-through capabilities.
 🔹 Analyzed campaign performance across marketing channels, audience segments, languages, customer acquisition cost, conversion funnel, revenue, and ROI.
-👉 Applied descriptive analytics to generate strategic recommendations for campaign optimization and marketing budget allocation.
+🔹 Applied descriptive analytics to generate strategic recommendations for campaign optimization and marketing budget allocation.
 
 This project demonstrates practical applications of **data analytics, business intelligence, marketing analytics, SQL querying, Python-based EDA, and dashboard development** to support evidence-based decision-making in digital marketing.
