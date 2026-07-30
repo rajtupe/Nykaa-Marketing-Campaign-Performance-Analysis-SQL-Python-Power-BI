@@ -15,8 +15,6 @@ The processed dataset is then visualized in Power BI through an interactive dash
 🔹 Analyzed campaign performance across marketing channels, audience segments, languages, customer acquisition cost, conversion funnel, revenue, and ROI.
 🔹 Applied descriptive analytics to generate strategic recommendations for campaign optimization and marketing budget allocation.
 
-This project demonstrates practical applications of **data analytics, business intelligence, marketing analytics, SQL querying, Python-based EDA, and dashboard development** to support evidence-based decision-making in digital marketing.
-
 ⭐ ANALYSIS:
 
 <img width="960" height="600" alt="q1_roi_by_campaign_type" src="https://github.com/user-attachments/assets/cc4e1a90-04b0-4afa-a0dd-25b536e46e00" />
